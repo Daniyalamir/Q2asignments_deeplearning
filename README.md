@@ -1,1 +1,1 @@
-# Q2asignments_deeplearning
+# Q2-DL_Assignments
